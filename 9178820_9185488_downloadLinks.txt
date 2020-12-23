@@ -1,0 +1,427 @@
+[Front cover]>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185698&ref=
+[Copyright notice]>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185811&ref=
+CEC 2020 Table of Contents>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185651&ref=
+[Front matter]>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185689&ref=
+Evolving Order and Chaos: Comparing Particle Swarm Optimization and Genetic Algorithms for Global Coordination of Cellular Automata>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185828&ref=
+Fine-Tuning Temperatures in Restricted Boltzmann Machines Using Meta-Heuristic Optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185505&ref=
+A Decomposition-based Multi-objective Self-adaptive Differential Evolution Algorithm for RFID Network Planning>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185896&ref=
+Path Planning of UAVs Under Dynamic Environment based on a Hierarchical Recursive Multiagent Genetic Algorithm>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185513&ref=
+Optimising Control and Prediction Horizons of a Model Predictive Control-Based Motion Cueing Algorithm Using Butterfly Optimization Algorithm>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185842&ref=
+Search Space Sampling by Simulated Annealing for Identifying Robust Solutions in Course Timetabling>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185823&ref=
+Integrated Learning Method for Anomaly Detection Combining KLSH and Isolation Principles>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185626&ref=
+Iterated Problem Reformulation for Evolutionary Large-Scale Multiobjective Optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185553&ref=
+A Surrogate-Assisted Clustering Particle Swarm Optimizer for Expensive Optimization Under Dynamic Environment>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185765&ref=
+Handling Constrained Multi-Objective optimization with Objective Space Mapping to Decision Space Based on Extreme Learning Machine>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185580&ref=
+An Adaptive Memetic P System to Solve the 0/1 Knapsack Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185841&ref=
+A Comparison of the Taguchi Method and Evolutionary optimization in Multivariate Testing>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185696&ref=
+A Continuous Information Gain Measure to Find the Most Discriminatory Problems for AI Benchmarking>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185834&ref=
+A Parametric Study of Interaction-Transformation Evolutionary Algorithm for Symbolic Regression>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185521&ref=
+Quantum-Inspired Evolutionary Algorithm for Convolutional Neural Networks Architecture Search>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185727&ref=
+Feature Extraction of Fourier Infrared Signals from Pyrolysis Products based on ZCA and PSO>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185916&ref=
+A Multi-constraint Handling Techniquebased Niching Evolutionary Algorithm for Constrained Multi-objective optimization Problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185519&ref=
+Balancing the Influence of Evolutionary Operators for Global optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185766&ref=
+Energy Efficient Virtual Machine Consolidation Using Water Wave Optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185865&ref=
+Estimating Low Frequency Oscillation using Bacterial Swarm Algorithm with Local Probability Likelihood Approach>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185857&ref=
+Swarm Intelligence Based Feature Selection for Intrusion and Detection System in Cloud Infrastructure>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185887&ref=
+Adaptive Large Neighborhood Search for Vehicle Routing Problem with Cross-Docking>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185514&ref=
+A Self-Adaptive Hybrid Algorithm for Planning City Air Terminals>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185642&ref=
+Feasibility of Genetic Programming for the Optimization of Tissue-Type-Segmented Maps in the Generation of Synthetic CT in Radiation Therapy Treatment Planning>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185768&ref=
+Tree-Shaped Ensemble of Multi-Label Classifiers using Grammar-Guided Genetic Programming>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185661&ref=
+Covariance Local Search for Memetic Frameworks: A Fitness Landscape Analysis Approach>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185548&ref=
+High Dimensional Feature Selection Method of Dual Gbest Based on PSO>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185635&ref=
+Evolution of Convolution Neural Network Architectures using Genetic Algorithm>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185680&ref=
+Decision Space Coverage of Random Walks>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185623&ref=
+Necrotic Control of the Aesthetics of Evolved Art>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185654&ref=
+Hybrid Single and Multiobjective optimization for Engineering Design without Exact Specifications>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185804&ref=
+Improved Training Speed, Accuracy, and Data Utilization Through Loss Function Optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185777&ref=
+Genetic Improvement of Genetic Programming>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185771&ref=
+Heuristic Embedded Genetic Algorithm for Heterogeneous Project Scheduling Problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185712&ref=
+Genetic Programming Hyper-Heuristics with Probabilistic Prototype Tree Knowledge Transfer for Uncertain Capacitated Arc Routing Problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185714&ref=
+Decision making for two learning agents acting like human agents : A proof of concept for the application of a Learning Classifier Systems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185570&ref=
+Evolution of Cellular Automata with Conditionally Matching Rules for Image Filtering>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185767&ref=
+Random Walks on Local Optima Networks>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185569&ref=
+An Improved Adaptive Genetic Algorithm for Mobile Robot Path Planning Analogous to the Ordered Clustered TSP>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185672&ref=
+Evolving Neural Networks through a Reverse Encoding Tree>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185648&ref=
+PSO-based Optimal Formation of Multiple Biomimetic Underwater Vehicles>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185772&ref=
+Evolutionary Approach to Collectible Arena Deckbuilding using Active Card Game Genes>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185755&ref=
+Generative Adversarial Network Rooms in Generative Graph Grammar Dungeons for The Legend of Zelda>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185631&ref=
+Analytic Continued Fractions for Regression: Results on 352 datasets from the physical sciences>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185564&ref=
+Two Fast Heuristics for Online Order Dispatching>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185791&ref=
+Multi/Many-Objective Optimization Via A New Preference Indicator>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185819&ref=
+EOS: a Parallel, Self-Adaptive, Multi-Population Evolutionary Algorithm for Constrained Global Optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185800&ref=
+Sports Games Modeling and Prediction using Genetic Programming>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185917&ref=
+Genetic Programming-Based Feature Learning for Facial Expression Classification>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185491&ref=
+One-stage and Dual-heuristic Particle Swarm optimization for Virtual Network Embedding>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185524&ref=
+A Surrogate-Assisted Offspring Generation Method for Expensive Multi-objective optimization Problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185691&ref=
+An adaptive constraint-handling approach for optimization problems with expensive objective and constraints>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185550&ref=
+MOEA/D with Random Partial Update Strategy>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185527&ref=
+An Effective Iterated Greedy Algorithm for Online Route Planning Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185864&ref=
+A Two-stage Algorithm for Fuzzy Online Order Dispatching Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185858&ref=
+A Hybrid Differential Evolution Algorithm for the Online Meal Delivery Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185792&ref=
+Surrogate-Assisted Memetic Algorithm with Adaptive Patience Criterion for Computationally Expensive Optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185731&ref=
+Simultaneous Scheduling Strategy: A Novel Method for Flexible Job Shop Scheduling Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185763&ref=
+BSO-AL: Brain Storm Optimization Algorithm with Adaptive Learning Strategy>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185592&ref=
+Overall Optimization of Smart City by Multi-population Global-best Brain Storm Optimization using Cooperative Coevolution>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185789&ref=
+Niching Evolutionary Computation With a Priori Estimate for Solving Multi-Solution Traveling Salesman Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185573&ref=
+HeMI ++: A Genetic Algorithm based Clustering Technique for Sensible Clusters>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185882&ref=
+Evolving Dynamically Reconfiguring UAV-hosted Mesh Networks>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185639&ref=
+Riesz s-energy-based Reference Sets for Multi-Objective optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185833&ref=
+Fitness Landscape Analysis Metrics based on Sobol Indices and Fitness- and State-Distributions>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185716&ref=
+Evolutionary Automation of Coordinated Autonomous Vehicles>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185912&ref=
+Dependable Parallel Multi-population Global-best Brain Storm Optimization with Differential Evolution strategies for Distribution System State Estimation using Just-in-time Modeling and Correntropy in Power Systems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185836&ref=
+Genetic Programming with Transfer Learning for Urban Traffic Modelling and Prediction>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185880&ref=
+Training Data Set Assessment for Decision-Making in a Multiagent Landmine Detection Platform>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185686&ref=
+Improving Cuckoo Search: Incorporating Changes for CEC 2017 and CEC 2020 Benchmark Problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185684&ref=
+Radar-based Noncontact Human Activity Classification Using Genetic Programming>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185814&ref=
+Layers Sequence Optimizing for Deep Neural Networks using Multiples Objectives>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185576&ref=
+Enhanced Interactive Estimation of Distribution Algorithms with Attention Mechanism and Restricted Boltzmann Machine>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185740&ref=
+An Adaptive Water Wave Optimization Algorithm with Enhanced Wave Interaction>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185518&ref=
+Can Single Solution Optimisation Methods Be Structurally Biased?>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185494&ref=
+MOEA/D-S3: MOEA/D using SVM-based Surrogates adjusted to Subproblems for Many objective optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185549&ref=
+Competitive-Adaptive Algorithm-Tuning of Metaheuristics inspired by the Equilibrium Theory: A Case Study>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185493&ref=
+A Review and Empirical Analysis of Particle Swarm optimization Algorithms for Dynamic Multi-Modal optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185587&ref=
+A Hybrid BSO-ACS Algorithm for Vehicle Routing Problem with Time Windows on Road Networks>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185868&ref=
+A Comparison of Crossover Operators in Genetic Algorithms for Switch Allocation Problem in Power Distribution Systems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185795&ref=
+Harnessing Particle Swarm optimization Through Relativistic Velocity>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185752&ref=
+Evolutionary Algorithm with Non-parametric Surrogate Model for Tensor Program optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185646&ref=
+A Multi-Population Exploration-only Exploitation-only Hybrid on CEC-2020 Single Objective Bound Constrained Problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185530&ref=
+A Hybrid TLBO-Particle Filter Algorithm Applied to Remaining Useful Life Prediction in the Presence of Multiple Degradation Factors>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185898&ref=
+A Simulation-Based Approach to Multi-Item Multi-Echelon Spare Parts Inventory System optimization with Variable Warehouse Roles>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185840&ref=
+Coevolutive clustering algorithm for large datasets>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185902&ref=
+Brain Storm Robotics: An Automatic Design Framework for Multi-Robot Systems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185787&ref=
+Adaptive Multi-scale Quantum Harmonic Oscillator Algorithm Based on Evolutionary Strategy>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185738&ref=
+Evolutionary algorithms for the Traveling Car Renter with Passengers>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185693&ref=
+Multi-objective Optimal Control of Dynamic Integrated Model of Climate and Economy: Evolution in Action>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185688&ref=
+Adaptive Structural Hyper-Parameter Configuration by Q-Learning>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185665&ref=
+Evolutionary Graph Compression and Diffusion Methods for City Discovery in Role Playing Games>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185601&ref=
+A Two-phase Evolutionary Algorithm for Solving the Accuracy-diversity Dilemma in Recommendation>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185873&ref=
+Dynamic Normalization in MOEA/D for Multiobjective optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185849&ref=
+A Chaotic Inertia Weight TLBO Applied to Troubleshooting optimization Problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185897&ref=
+Visualization Approach for Malware Classification with ResNeXt>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185490&ref=
+Heuristic Space Diversity Measures for Population-based Hyper-heuristics>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185719&ref=
+Mobile Touchless Fingerprint Acquisition And Enhancement System>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185870&ref=
+Stepping ahead based hybridization of meta-heuristic model for solving Global Optimization Problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185607&ref=
+Trust Regions in Surrogate-Assisted Local Search for Industrial Columns¡¯ Mass Transfer Efficiencies Estimation>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185656&ref=
+Transfer Learning Layer Selection Using Genetic Algorithm>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185501&ref=
+A Decomposition-based Large-scale Multi-modal Multi-objective optimization Algorithm>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185674&ref=
+Self-tuning Co-Operation of Biology-Inspired and Evolutionary Algorithms for Real-World Single Objective Constrained optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185839&ref=
+Clustering Julia Set Examples to Enhance Evolution of Fractal Parameters>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185604&ref=
+Improving an Optical Flow Estimator Inspired by Insect Biology using Adaptive Genetic Algorithms>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185644&ref=
+Multi-species Generation Strategy-Based Vegetation Evolution>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185677&ref=
+A Symmetric Points Search and Variable Grouping Method for Large-scale Multi-objective Optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185876&ref=
+Hybrid PSO Algorithm with Adaptive Step Search in Noisy and Noise-free Environments>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185638&ref=
+Techniques for Accelerating Multi-Objective Evolutionary Algorithms in PlatEMO>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185797&ref=
+An Overlapping Community Detection Based Multi-Objective Evolutionary Algorithm for Diversified Social Influence Maximization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185883&ref=
+A Memetic Algorithm for the Task Allocation Problem on Multi-robot Multi-point Dynamic Aggregation Missions>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185647&ref=
+Multifactorial Cellular Genetic Algorithm (MFCGA): Algorithmic Design, Performance Comparison and Genetic Transferability Analysis>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185784&ref=
+Combining Evolutionary Mutation Testing with Random Selection>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185618&ref=
+Shrinking Counterexamples in Property-Based Testing with Genetic Algorithms>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185807&ref=
+A preference-based multi-objective demand response mechanism>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185875&ref=
+Knee Points based Transfer Dynamic Multi-objective optimization Evolutionary Algorithm>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185537&ref=
+Enhancing Artificial Bee Colony Algorithm with Dynamic Best Neighbor-guided Search Strategy>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185805&ref=
+Mitigating the Effects of External Perturbations on a Gene Regulatory Network using Feedback Controllers>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185685&ref=
+Particle Swarm optimization with pbest Perturbations>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185801&ref=
+Survey on Applications of Multi-Armed and Contextual Bandits>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185782&ref=
+Enhancing Evolutionary Algorithms by Efficient Population Initialization for Constrained Problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185509&ref=
+On the Use of Cultural Enhancement Strategies to Improve the NEAT Algorithm>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185847&ref=
+Managing Radial Basis Functions for Evolutionary Many-Objective optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185610&ref=
+Particle Swarm optimisation for Evolving Deep Neural Networks for Image Classification by Evolving and Stacking Transferable Blocks>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185541&ref=
+Motivating Participants in Human-based Evolutionary Computation Systems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185877&ref=
+Scaling Up Radial Basis Function for High-Dimensional Expensive Optimization Using Random Projection>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185699&ref=
+Traffic Signal Optimization with Estimation of Distribution Algorithms and VISSIM-MATLAB Integrated Simulation Platform>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185780&ref=
+Adaptive Population Differential Evolution with Dual Control Strategy for Large-Scale Global optimization Problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185854&ref=
+Adaptive Guidance-based Differential Evolution with Iterative Feedback Archive Strategy for Multimodal optimization Problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185582&ref=
+A Collective Intelligence Strategy for Enhancing Population-based optimization Algorithms>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185905&ref=
+An Iterated Local Search Approach to Solve the Milk Collection Problem With Blending>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185888&ref=
+Towards Decision Support in Dynamic Bi-Objective Vehicle Routing>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185778&ref=
+Hierarchical Grammar-Guided Genetic Programming Techniques for Scheduling in Heterogeneous Networks>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185636&ref=
+Discovering Numerous Strassen¡¯s Equivalent Equations Using a Simple Micro Multimodal GA: Evolution in Action>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185609&ref=
+Self-organizing Migrating Algorithm for the Single Row Facility Layout Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185657&ref=
+Neural-Guided Particle Swarm optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185700&ref=
+An Assignment Problem Formulation for Dominance Move Indicator>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185597&ref=
+Evolutionary Learning for Soft Margin Problems: A Case Study on Practical Problems with Kernels>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185574&ref=
+A GP approach for precision farming>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185637&ref=
+Energy and Complexity in Evolving Collective Robot Bodies and Brains>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185788&ref=
+Multi-Tree Genetic Programming-based Transformation for Transfer Learning in Symbolic Regression with Highly Incomplete Data>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185670&ref=
+Hybridising Particle Swarm optimisation with Differential Evolution for Feature Selection in Classification>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185533&ref=
+On the Normalization in Evolutionary Multi-Modal Multi-Objective Optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185899&ref=
+A Practical Tuner based on Opposite Information>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185746&ref=
+Online intensification of search around solutions of interest for multi/many-objective optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185812&ref=
+Solving the Multiple choice Multidimensional Knapsack problem with ABC algorithm>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185872&ref=
+Atrributed Graph Embedding Based on Multiobjective Evolutionary Algorithm for Overlapping Community Detection>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185758&ref=
+A Kriging-Assisted Evolutionary Algorithm Using Feature Selection for Expensive Sparse Multi-Objective optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185825&ref=
+Simplified Bacterial Foraging optimization Based on Reverse Chemotaxis Strategy>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185595&ref=
+Making an Example: Signalling Threat in the Evolution of Cooperation>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185749&ref=
+LSHADE with S-shape Constraint-handling Technique in Push and Pull Search for Constrained optimization Problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185717&ref=
+Generating Tree Inputs for Testing using Evolutionary Computation Techniques>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185561&ref=
+Comparison of Different Computing Platforms for Implementing Parallel Genetic Programming>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185510&ref=
+A Novel Velocity Reinforced Mechanism on Improving Particle Swarm optimization for Ill-conditioned Problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185557&ref=
+A Genetic Algorithm for Transmission Network Expansion Planning Considering Line Maintenance>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185821&ref=
+Endmember Selection of Hyperspectral Images based on Evolutionary Multitask>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185673&ref=
+Novelty Search for Shape Descriptors>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185745&ref=
+Enhancing the Robustness of Airport Networks By Removing Links>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185852&ref=
+Proposal of Multimodal Program optimization Benchmark and Its Application to Multimodal Genetic Programming>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185705&ref=
+A real-coded evolutionary algorithm-based registration approach for forensic identification using the radiographic comparison of frontal sinuses>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185859&ref=
+A Novel Center-based Differential Evolution Algorithm>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185622&ref=
+On the Scalable Multi-Objective Multi-Agent Pathfinding Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185585&ref=
+Anytime Behavior of Inexact TSP Solvers and Perspectives for Automated Algorithm Selection>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185613&ref=
+On The Role Of Execution Order In Hybrid Evolutionary Algorithms>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185676&ref=
+Parallel and Distributed MOEA/D with Exclusively Evaluated Mating and Migration>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185559&ref=
+Cryptanalysis of RSA: Integer Prime Factorization Using Genetic Algorithms>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185728&ref=
+Community-Grouping Based Particle Swarm optimisation Algorithm for Feature Selection>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185504&ref=
+Multi-Objective Evolutionary Optimization for Worst-Case Analysis of False Data Injection Attacks in the Smart Grid>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185725&ref=
+Scalarizing Functions in Bayesian Multiobjective Optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185706&ref=
+Safety Isolating Transformer Design using HyDE-DF algorithm>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185619&ref=
+Particle Swarm Optimisation for Scheduling Electric Vehicles with Microgrids>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185853&ref=
+Towards a Microservices-Based Product Line with Multi-Objective Evolutionary Algorithms>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185776&ref=
+A Running Performance Metric and Termination Criterion for Evaluating Evolutionary Multi- and Many-objective Optimization Algorithms>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185546&ref=
+A Genetic Programming-Based Multi-Objective Optimization Approach to Data Replication Strategies for Distributed Systems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185598&ref=
+Modeling of synchronous weapon target assignment problem for howitzer based defense line>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185578&ref=
+A Novel Grid-based Crowding Distance for Multimodal Multi-objective Optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185835&ref=
+High-Lift Devices Topology Optimisation using Structured-Chromosome Genetic Algorithm>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185603&ref=
+A Study of Fitness Landscapes for Neuroevolution>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185783&ref=
+Q-Learning Induced Artificial Bee Colony for Noisy Optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185844&ref=
+Migration in Multi-Population Differential Evolution for Many Objective Optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185596&ref=
+Improving Software Maintainability Predictions using Data Oversampling and Hybridized Techniques>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185809&ref=
+Optimising Antibiotic Treatments with Multi-objective Population-based Algorithms>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185489&ref=
+Investigating Optimal Regimes for Prediction in the Stock Market>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185496&ref=
+Multifactorial Genetic Fuzzy Data Mining for Building Membership Functions>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185900&ref=
+Multiobjective Neuromodulated Controllers for Efficient Autonomous Vehicles with Mass and Drag in the Pursuit-Evasion Game>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185818&ref=
+A dynamic evolutionary multi-agent system to predict the 3D structure of proteins>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185761&ref=
+A probabilistic optimization approach to deal with uncertainties in model calibration>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185903&ref=
+Online Parameter Tuned SAHiD Algorithm for Capacitated Arc Routing Problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185627&ref=
+An Adaptive and Near Parameter-free Evolutionary Computation Approach Towards True Automation in AutoML>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185770&ref=
+Multimodal fake news detection using a Cultural Algorithm with situational and normative knowledge>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185643&ref=
+Representing Experience in Continuous Evolutionary optimisation through Problem-tailored Search Operators>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185687&ref=
+Optimal sizing of a standalone renewable energy reverse osmosis desalination system using an ant system>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185845&ref=
+An Experimental Study of Prediction Methods in Robust optimization Over Time>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185910&ref=
+Rank Based Moth Flame optimisation for Feature Selection in the Medical Application>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185498&ref=
+A Preliminary Study on Evolutionary Clustering for Multiple Instance Learning>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185588&ref=
+Routing-Led Placement of VNFs in Arbitrary Networks>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185531&ref=
+Enhancing Prediction in Cyclone Separators through Computational Intelligence>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185663&ref=
+An efficient genetic algorithm for the train scheduling problem with fleet management>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185779&ref=
+A Multi-Objective Genetic Programming Hyper-Heuristic Approach to Uncertain Capacitated Arc Routing Problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185890&ref=
+Determining the Conformational Flexibility of Disaccharides with an Adaptive Differential Evolution Approach>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185759&ref=
+A Novel Formulation for Multi-objective optimization of General Finite Single-Server Queueing Networks>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185827&ref=
+Evolving Large Reusable Multi-pass Heuristics for Resource Constrained Job Scheduling>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185539&ref=
+A New Method for Generating and Indexing Reference Points in Many Objective Optimisation>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185793&ref=
+Development of offshore maintenance service scheduling system with workers allocation>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185919&ref=
+A Threshold-free Classification Mechanism in Genetic Programming for High-dimensional Unbalanced Classification>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185503&ref=
+Genetic Programming with Noise Sensitivity for Imputation Predictor Selection in Symbolic Regression with Incomplete Data>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185526&ref=
+A Region Adaptive Image Classification Approach Using Genetic Programming>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185908&ref=
+A Primary Study on Hyper-Heuristics to Customise Metaheuristics for Continuous optimisation>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185591&ref=
+In Vivo Computation for Tumor Sensitization and Targeting at Different Tumor Growth Stages>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185830&ref=
+Learning Bayesian Networks Structures with an Effective Knowledge-driven GA>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185884&ref=
+Ranked Archive Differential Evolution with Selective Pressure for CEC 2020 Numerical Optimization*>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185614&ref=
+Differential Evolution Algorithm for Multiple Inter-dependent Components Traveling Thief Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185692&ref=
+Large-Scale optimization via Evolutionary Multitasking assisted Random Embedding>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185660&ref=
+An Innovative Polyp Detection Method from Colon Capsule Endoscopy Images Based on A Novel Combination of RCNN and DRLSE>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185629&ref=
+A Fitness-based Selection Method for Pareto Local Search for Many-Objective Job Shop Scheduling>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185881&ref=
+Multi-Operator Differential Evolution Algorithm for Solving Real-World Constrained Optimization Problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185722&ref=
+Search Economics for Single-Objective Real-Parameter optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185565&ref=
+Improved Multi-operator Differential Evolution Algorithm for Solving Unconstrained Problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185577&ref=
+A Hybrid Genetic Algorithm for Sustainable Wireless Coverage of Drone Networks>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185862&ref=
+Dynamic Self-Organising Swarm for Unsupervised Prototype Generation>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185816&ref=
+A Dimension-Wise Particle Swarm Optimization Algorithm Optimized via Self-Tuning>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185640&ref=
+Multilevel Quantum Inspired Fractional Order Ant Colony Optimization for Automatic Clustering of Hyperspectral Images>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185589&ref=
+An Effective Search Economics Based Algorithm for Feature Selection>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185826&ref=
+Robust Multi-Objective optimization using Conditional Pareto Optimal Dominance>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185748&ref=
+Proposal of Adaptive Randomness in Differential Evolution>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185733&ref=
+Non-dominated Solution Sampling Using Environmental Selection in EMO algorithms>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185529&ref=
+DISH-XX Solving CEC2020 Single Objective Bound Constrained Numerical optimization Benchmark>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185633&ref=
+A Comparative Study of Genetic Algorithm and Particle Swarm optimisation for Dendritic Cell Algorithm>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185497&ref=
+A Decomposition based Multi-objective Evolutionary Algorithm with ReliefF based Local Search and Solution Repair Mechanism for Feature Selection>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185590&ref=
+A Gaussian-Prioritized Approach for Deploying Additional Route on Existing Mass Transportation with Neural-Network-Based Passenger Flow Inference>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185869&ref=
+Statistically-driven Coral Reef metaheuristic for automatic hyperparameter setting and architecture design of Convolutional Neural Networks>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185914&ref=
+Learning Regular Expressions for Interpretable Medical Text Classification Using a Pool-based Simulated Annealing Approach>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185650&ref=
+Oil Palm Detection via Deep Transfer Learning>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185838&ref=
+MFEA-IG: A Multi-Task Algorithm for Mobile Agents Path Planning>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185906&ref=
+On Improvements of the Human Mental Search Algorithm for Global Optimisation>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185525&ref=
+Multimodal optimization for the Trajectory Planning of Railway Vehicles>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185655&ref=
+An Improved MOEA/D Algorithm for the Carbon Black Production Line Static and Dynamic Multiobjective Scheduling Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185560&ref=
+The Analysis of a Cooperative Hyper-Heuristic on a Constrained Real-world Many-objective Continuous Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185904&ref=
+GPU Accelerated Genetic Algorithm with Sequence-based Clustering for Ordered Problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185762&ref=
+A Multi-Agent System for Modelling the Spread of Lethal Wilt in Oil-Palm Plantations>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185742&ref=
+Improving the Detection of Burnt Areas in Remote Sensing using Hyper-features Evolved by M3GP>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185630&ref=
+Grammatical Evolution to Mine OWL Disjointness Axioms Involving Complex Concept Expressions>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185681&ref=
+High-Performance Virus Detection System by using Deep Learning>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185808&ref=
+Behavior-based Speciation in Classification with NeuroEvolution>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185720&ref=
+Evolutionary Approach to Multiparty Multiobjective Optimization Problems with Common Pareto Optimal Solutions>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185747&ref=
+Refrigerated Showcase Fault Detection by a Pasting based Artificial Neural Networks using Parallel Multi-population Modified Brain Storm optimization and Correntropy>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185511&ref=
+Metaheuristics for Energy-Efficient No-Wait Flowshops: A Trade-off Between Makespan and Total Energy Consumption>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185554&ref=
+Tracking Moving Optima of Dynamic Multi-objective Problem via Prediction in Objective Space>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185703&ref=
+Evolving Better Rerouting Surrogate Travel Costs with Grammar-Guided Genetic Programming>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185764&ref=
+Learning Bidding Strategies in Local Electricity Markets using Ant Colony optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185520&ref=
+A Novel General Variable Neighborhood Search through Q-Learning for No-Idle Flowshop Scheduling>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185556&ref=
+Evolutionary Air-Conditioning optimization Using an LSTM-Based Surrogate Evaluator>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185769&ref=
+Multi-Objective Differential Evolution Algorithms for the Protein Structure Prediction Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185711&ref=
+A Hybrid Surrogate Model for Evolutionary Undersampling in Imbalanced Classification>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185774&ref=
+Different Approaches to Multi-Objective Sparse Array Problem with Social Network optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185649&ref=
+Improving Module Identification and Use in Grammatical Evolution>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185571&ref=
+Variance of particle location in the stochastic model of PSO with inertia weight>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185567&ref=
+Dual Inheritance Evolution Strategy for Deep Neural Network Optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185634&ref=
+Multi-objective optimization Model for Flexible Job Shop Scheduling Problem Considering Transportation Constraints: A Comparative Study>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185653&ref=
+A Multi-Start Algorithm and a Large Neighborhood Search for a Maritime Inventory Routing Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185499&ref=
+Surrogate Assisted Evolutionary Algorithm Based on Transfer Learning for Dynamic Expensive Multi-Objective Optimisation Problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185522&ref=
+Which random is the best random? A study on sampling methods in Fourier surrogate modeling>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185815&ref=
+Surrogate-Assisted Genetic Algorithms for the Travelling Salesman Problem and Vehicle Routing Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185817&ref=
+A Modified Matrix Adaptation Evolution Strategy with Restarts for Constrained Real-World Problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185566&ref=
+MHACO: a Multi-Objective Hypervolume-Based Ant Colony Optimizer for Space Trajectory Optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185694&ref=
+Ship Design with a Morphing Evolutionary Algorithm>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185645&ref=
+Opinion dissemination in a swarm of simulated robots with stubborn agents: a comparative study>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185581&ref=
+Inferring Gene Regulatory Network Models from Time-Series Data Using Metaheuristics>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185572&ref=
+An Evaluation on Competitive and Cooperative Evolutionary Algorithms for Data Clustering>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185682&ref=
+A Fast Solution to Two-Impulse Lunar Transfer Trajectory based on Machine Learning Method>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185586&ref=
+T-EA: A Traceable Evolutionary Algorithm>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185615&ref=
+Complex Large-Scale Energy Resource Management Optimization Considering Demand Flexibility>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185617&ref=
+Preliminary spacecraft design by means of Structured-Chromosome Genetic Algorithms>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185796&ref=
+A Novel Archive Maintenance for Adapting Weight Vectors in Decomposition-based Multi-objective Evolutionary Algorithms>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185754&ref=
+A Symmetric grammar approach for designing segmentation models>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185760&ref=
+BSOGCN: Brain Storm Optimization Graph Convolutional Networks Based Heterogeneous Information Networks Embedding>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185532&ref=
+MMOGA for Solving Multimodal Multiobjective Optimization Problems with Local Pareto Sets>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185886&ref=
+A New Distance Diffusion Algorithm for a Path-Planning Model based on Cellular Automata>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185824&ref=
+A fitness dependent salp swarm algorithm>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185594&ref=
+Towards a Quantum based GA Search for an Optimal Artificial Neural Networks Architecture and Feature Selection to Model NOx Emissions: A Case Study>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185508&ref=
+Improving Deep Learning based Optical Character Recognition via Neural Architecture Search>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185798&ref=
+A Large-scale Bi-objective Optimization of Solid Rocket Motors Using Innovization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185861&ref=
+An optimised ensemble for antibody-mediated rejection status prediction in kidney transplant patients>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185739&ref=
+Novel Multi-objecitve Evolutionary Algorithm for Color Filter Arrays Design>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185718&ref=
+Clustering based Adaptive Differential Evolution for Numerical Optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185874&ref=
+An Improved Discrete Particle Swarm Optimization for Airline Crew Rostering Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185744&ref=
+Computational Study on Effectiveness of Knowledge Transfer in Dynamic Multi-objective Optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185907&ref=
+A Novel CNet-assisted Evolutionary Level Repairer and Its Applications to Super Mario Bros>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185538&ref=
+Multi-objective multi-factorial memetic algorithm based on bone route and large neighborhood local search for VRPTW>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185528&ref=
+AutoChef: Automated Generation of Cooking Recipes>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185605&ref=
+Multi-View Gene Clustering using Gene Ontology and Expression-based Similarities>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185885&ref=
+A hybrid algorithm based on MOEA/D and local search for multiobjective optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185741&ref=
+Improving evolution of service configurations for moving target defense>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185786&ref=
+Analysis of Structural Complexity Features for Music Genre Recognition>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185540&ref=
+Mining Graph-based Features in Multi-objective Framework for Microblog Summarization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185507&ref=
+WEC: Weighted Ensemble of Text Classifiers>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185641&ref=
+A Fuzzy Hyper-Heuristic Approach for the 0-1 Knapsack Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185710&ref=
+A Hybrid Methodology for the Reverse Engineering of Gene Regulatory Networks>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185866&ref=
+Evolutionary Design of Hash Functions for IPv6 Network Flow Hashing>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185723&ref=
+Feature Selection using Evolutionary Computation Techniques for Software Product Line Testing>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185675&ref=
+Multi-Objective Optimisation of Multi-Output Neural Trees>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185600&ref=
+Evaluating the Performance of Adaptive GainingSharing Knowledge Based Algorithm on CEC 2020 Benchmark Problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185901&ref=
+Many-level Image Thresholding using a Center-Based Differential Evolution Algorithm>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185679&ref=
+Alternative Representations for Codifying Solutions in Permutation-Based Problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185678&ref=
+Evolutionary Approximation of Instrumental Texture in Polyphonic Audio Recordings>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185506&ref=
+MDEA: Malware Detection with Evolutionary Adversarial Learning>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185810&ref=
+Evolutionary Algorithms for the Traveling Salesman with Multiple Passengers and High Occupancy Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185562&ref=
+Group Composition for Collaborative Learning With Distributed Leadership in MOOCs Using Particle Swarm optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185544&ref=
+Applying Genetic Programming to Improve Interpretability in Machine Learning Models>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185620&ref=
+Pedagogical Evolved Art: An Examination and Results of the Innopolis Al Art Contest>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185658&ref=
+Differential Evolution Algorithm for Single Objective Bound-Constrained Optimization: Algorithm j2020>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185551&ref=
+Envisioning the Benefits of Back-Drive in Evolutionary Algorithms>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185751&ref=
+A CMA-ES algorithm for solving the steelmaking scheduling problem involving time buffers>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185584&ref=
+Optimizing LSTM Based Network For Forecasting Stock Market>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185545&ref=
+Cartesian Genetic Programming Hyper-Heuristic with Parameter Configuration for Production Lot-Sizing>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185602&ref=
+Gait Model Analysis of Parkinson¡¯s Disease Patients under Cognitive Load>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185621&ref=
+Chaotic Quantum-inspired Evolutionary Algorithm: enhancing feature selection in BCI>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185608&ref=
+A Benchmark Test Suite for the Electric Capacitated Vehicle Routing Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185753&ref=
+A heuristic algorithm for districting problems with similarity constraints>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185552&ref=
+Empirical Analysis of 1-edit Degree Patches in Syntax-Based Automatic Program Repair>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185913&ref=
+A sensitivity analysis indicator to adapt the shift length in a metaheuristic>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185895&ref=
+Behavior of Bioinspired Algorithms in Parallel Island Models>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185732&ref=
+Optimizing Neural Architecture Search using Limited GPU Time in a Dynamic Search Space: A Gene Expression Programming Approach>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185856&ref=
+An evolutionary algorithm for selection of test cases>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185773&ref=
+Genetic Programming Hyper-heuristic with Cluster Awareness for Stochastic Team Orienteering Problem with Time Windows>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185911&ref=
+A Differential Evolution Algorithm with Q-Learning for Solving Engineering Design Problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185743&ref=
+Examination of Annealing Schedules for RNA Design>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185702&ref=
+Class Dependent Feature Construction as a Bi-level optimization Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185756&ref=
+Dynamic programming operators for the bi-objective Traveling Thief Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185829&ref=
+Identifying Parkinson¡¯s Disease Through the Classification of Audio Recording Data>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185915&ref=
+Exploring Problem State Transformations to Enhance Hyper-heuristics for the Job-Shop Scheduling Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185709&ref=
+Asynchronous bio-inspired tuning for the DC motor speed controller with simultaneous identification and predictive strategies>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185542&ref=
+Pyramid: A Hierarchical Approach to Scaling Down Population Size in Genetic Algorithms>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185726&ref=
+A Comparative Analysis of Unbalanced Data Handling Techniques for Machine Learning Algorithms to Electricity Theft Detection>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185822&ref=
+Instance Selection for Geometric Semantic Genetic Programming>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185867&ref=
+Does it matter how well I know what you¡¯re thinking? Opponent Modelling in an RTS game>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185512&ref=
+Multi-objective Automatic Algorithm Configuration for the Classification Problem of Imbalanced Data>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185785&ref=
+Discovering Unmodeled Components in Astrodynamics with Symbolic Regression>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185534&ref=
+A Parallel Evolutionary System for Multi-objective Optimisation>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185855&ref=
+Improving Classification of Metamorphic Malware by Augmenting Training Data with a Diverse Set of Evolved Mutant Samples>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185668&ref=
+On the Parameterization of Cartesian Genetic Programming>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185492&ref=
+Eigenvector Crossover in jDE100 Algorithm>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185802&ref=
+Trend Mining 2.0: Automating the Discovery of Variable Trends in the Objective Space>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185892&ref=
+DenseDisp: Resource-Aware Disparity Map Estimation by Compressing Siamese Neural Architecture>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185611&ref=
+Data-Driven Regular Expressions Evolution for Medical Text Classification Using Genetic Programming>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185500&ref=
+Weather-based Fault Prediction in Electricity Networks with Artificial Neural Networks>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185555&ref=
+A biased random-key genetic algorithm using dotted board model for solving two-dimensional irregular strip packing problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185794&ref=
+Automated Machine Learning for Information Retrieval in Scientific Articles>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185893&ref=
+Simultaneously Evolving Deep Reinforcement Learning Models using Multifactorial optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185667&ref=
+Differential Evolution variants combined in a Hybrid Dynamic Island Model>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185579&ref=
+Racing Strategy for the Dynamic-Customer Location-Allocation Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185918&ref=
+A Unified Automated Innovization Framework Using Threshold-based Clustering>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185879&ref=
+Evolving Deep Recurrent Neural Networks Using A New Variable-Length Genetic Algorithm>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185851&ref=
+A Reinforcement Learning Hyper-heuristic for the optimisation of Flight Connections>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185803&ref=
+Benchmarking for Metaheuristic Black-Box Optimization: Perspectives and Open Challenges>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185724&ref=
+Intelligent Controllers based on Genetic Algorithms for Reducing Energy and Water Waste>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185690&ref=
+Prediction of Photovoltaic Time Series by Recurrent Neural Networks and Genetic Embedding>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185891&ref=
+Pattern searcher for decision making of trading agents using Genetic Algorithm>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185704&ref=
+Modelling of Vaccination Strategies for Epidemics using Evolutionary Computation>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185662&ref=
+A Genetic Algorithm for the Thief Orienteering Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185848&ref=
+COLSHADE for Real-World Single-Objective Constrained optimization Problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185583&ref=
+Coevolutionary Operations for Large Scale Multi-objective Optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185846&ref=
+Exact Signed Modularity Density Maximization Solutions and Their Real Meaning*>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185736&ref=
+Evolving complex yet interpretable representations: application to Alzheimer¡¯s diagnosis and prognosis>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185843&ref=
+Incorporating Strategy Adoption into Genetic Algorithm Enabled Multi-Agent Systems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185502&ref=
+Bypassing or flying above the obstacles? A novel multi-objective UAV path planning problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185695&ref=
+A hybrid heuristic for districting problems with routing criteria>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185863&ref=
+Voting-mechanism based ensemble constraint handling technique for real-world single-objective constrained optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185632&ref=
+Large Initial Population and Neighborhood Search incorporated in LSHADE to solve CEC2020 Benchmark Problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185547&ref=
+Explaining Symbolic Regression Predictions>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185683&ref=
+Cooperative-Coevolution-CMA-ES with Two-Stage Grouping>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185616&ref=
+Evolving Simpler Constructed Features for Clustering Problems with Genetic Programming>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185575&ref=
+Solving a physician rostering problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185775&ref=
+An Automatic Algorithm Configuration based on a Bayesian Network>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185889&ref=
+Distributed On-line Learning in Swarm Robotics with Limited Communication Bandwidth>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185697&ref=
+NP-hardness and evolutionary algorithm over new formulation for a Target Set Selection problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185558&ref=
+Multi-Scale Collaborative Fireworks Algorithm>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185563&ref=
+Lazy Greedy Hypervolume Subset Selection from Large Candidate Solution Sets>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185878&ref=
+Extending Collective Intelligence Evolutionary Algorithms: A Facility Location Problem Application>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185523&ref=
+An Iterated Local Search Algorithm for the Clonal Deconvolution Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185515&ref=
+A Many-Objective optimization Approach for Complexity-based Data set Generation>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185543&ref=
+Neural Networks for Surrogate-assisted Evolutionary optimization of Chemical Processes>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185781&ref=
+An Ant Colony Optimisation Based Heuristic for Mixed-model Assembly Line Balancing with Setups>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185757&ref=
+Local Covering: Adaptive Rule Generation Method Using Existing Rules for XCS>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185669&ref=
+A Training Difficulty Schedule for Effective Search of Meta-Heuristic Design>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185806&ref=
+Multifactorial Evolutionary Algorithm for Inter-Domain Path Computation under Domain Uniqueness Constraint>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185701&ref=
+Multi-population Modified L-SHADE for Single Objective Bound Constrained optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185735&ref=
+Cluster-based Hyper-Heuristic for Large-Scale Vehicle Routing Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185831&ref=
+Boundary Constraint-Handling Methods in Differential Evolution for Mechanical Design Optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185495&ref=
+A Graph-based Ant-like Approach to Optimal Path Planning>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185628&ref=
+A parallel whale optimization algorithm and its implementation on FPGA>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185737&ref=
+Effects of Local Mating in Inter-task Crossover on the Performance of Decomposition-based Evolutionary Multiobjective Multitask optimization Algorithms>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185871&ref=
+Edge Assembly Crossover with Tabu for Traveling Salesman Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185837&ref=
+Memory-Assisted Dynamic Multi-Objective Evolutionary Algorithm for Feature Drift Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185730&ref=
+Sequential Estimation of States and Parameters of Nonlinear State Space Models Using Particle Filter and Natural Evolution Strategy>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185666&ref=
+Revisiting Success-Histories for Adaptive Differential Evolution>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185536&ref=
+Parallel Differential Evolution Algorithms for Stackelberg-Nash Bilevel Optimization Problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185813&ref=
+Modified Distance-based Subset Selection for Evolutionary Multi-objective Optimization Algorithms>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185734&ref=
+Co-operative Prediction Strategy for Solving Dynamic Multi-Objective Optimization Problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185721&ref=
+Evolution of Complex Coordinated Behavior>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185624&ref=
+Instance Space Analysis of Combinatorial Multi-objective Optimization Problems>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185664&ref=
+A Novel Multi-objective Cultural Algorithm Embedding Five-Element Cycle Optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185832&ref=
+Memetic Multi-agent optimization with Problem Reformulation by Coordinate Rotation>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185850&ref=
+A Data-Driven Genetic Programming Heuristic for Real-World Dynamic Seaport Container Terminal Truck Dispatching>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185659&ref=
+Genetic Algorithm Applied in UAV¡¯s Path Planning>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185909&ref=
+A Preliminary Study on Feature-independent Hyper-heuristics for the 0/1 Knapsack Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185671&ref=
+Towards realistic mimicking of grey wolves hunting process for bounded single objective optimization>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185535&ref=
+Using Cultural Algorithms to Learn the Impact of Climate on Local Fishing Behavior in Cerro Azul, Peru>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185729&ref=
+Hyperparameters optimization for neural network training using Fractal Decomposition-based Algorithm>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185599&ref=
+A Cone Decomposition Evolutionary Algorithm with Dominance-based Archive for Many-objective Optimization Problems with Irregular Fronts>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185860&ref=
+Optimal Allocation and Sizing of Distributed Generation for Loss Minimization using a Multi-Population Genetic Algorithm>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185820&ref=
+Evolving Cryptographic Boolean Functions with Minimal Multiplicative Complexity>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185517&ref=
+Injecting Shortcuts for Faster Running Java Code>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185708&ref=
+Evolutionary Multiobjective Optimization for Pedestrian Route Guidance with Multiple Scenarios>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185894&ref=
+Power Flow Management in Electric Vehicles Charging Station Using Reinforcement Learning>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185652&ref=
+Genetic Programming for Domain Adaptation in Product Reviews>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185713&ref=
+A Novel Differential Evolution Algorithm with Q-Learning for Economical and Statistical Design of X-Bar Control Charts>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185625&ref=
+On the Performance of Generational and Steady-State MOEA/D in the Multi-Objective 0/1 Knapsack Problem>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185715&ref=
+A Systems Approach to Real-World Deployment of Industrial Internet of Things>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185790&ref=
+Optimizing Charging Locations and Charging Time for Energy Depletion Avoidance in Wireless Rechargeable Sensor Networks>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185750&ref=
+Deep Social Learning in Dynamic Environments Using Subcultures and Auctions With Cultural Algorithms>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185516&ref=
+CEC 2020 Author Index>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9185799&ref=
+Dynamic Multi Objective Particle Swarm optimization with Cooperative Agents>_<https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9285979&ref=
