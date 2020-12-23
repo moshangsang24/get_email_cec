@@ -1,4 +1,5 @@
 from tqdm import tqdm
+import os
 import re
 import requests
 
@@ -20,7 +21,7 @@ def download_pdf(download_links_file, article_folder):
             article_name = re.sub('[\/:*?"<>|]', '_', article_name)#去掉非法字符
             article_link = ad[1]
             r = requests.get(article_link)
-            filename = article_folder+'/%s.pdf'%article_name
+            filename = article_folder+os.sep+'%s.pdf'%article_name
             with open(filename, 'wb+') as f:
                 f.write(r.content)
             # 停一下防禁ip
