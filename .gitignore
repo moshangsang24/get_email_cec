@@ -1,0 +1,6 @@
+#pdf file
+*.pdf
+#log file
+*.log
+# vscode
+*.vscode
