@@ -6,7 +6,7 @@ import requests
 # headers={"User-Agent":" Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66"}
 
 def download_pdf(download_links_file, article_folder):
-    with open(download_links_file, 'r') as f:
+    with open(download_links_file, 'r',encoding="utf-8") as f:
         article_download_link_list = f.readlines()
     article_download_link_list = [i.strip() for i in article_download_link_list if i is not '\n']
     print('共计',len(article_download_link_list), '篇文章。')
@@ -36,8 +36,8 @@ def download_pdf(download_links_file, article_folder):
     else:
         return
 
-download_links_file = '9178820_9185488_downloadLinks.txt'
-article_folder = 'cec2020'
+download_links_file = '8778428_8789744_downloadLinks.txt'
+article_folder = 'cec2019'
 nc=[]
 download_pdf(download_links_file, article_folder)
 print(len(nc))
