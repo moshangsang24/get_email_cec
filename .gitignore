@@ -4,3 +4,7 @@
 *.log
 # vscode
 *.vscode
+# email file
+*_email.txt
+# test file
+test*
